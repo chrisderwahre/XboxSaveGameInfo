@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chrisderwahre/XboxSaveGameInfo.svg?branch=master)](https://travis-ci.org/chrisderwahre/XboxSaveGameInfo)
+
 # XBox Save Game Info
 A Simple Tool for reading info about XBox Savegames.
 
