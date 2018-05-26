@@ -1,9 +1,9 @@
 language: csharp
 script:
-  - xbuild /p:Configuration=Debug "XBox Save Game Info.csproj/XBox Save Game Info.csproj.csproj"
+  - xbuild /p:Configuration=Debug "XBox Save Game Info/XBox Save Game Info.csproj"
 before_install:
   - sudo apt-get install nunit-console
 before_script:
-  - nuget restore "XBox Save Game Info.csproj/XBox Save Game Info.csproj"
+  - nuget restore "XBox Save Game Info/XBox Save Game Info.csproj"
 after_script:
   - nunit-console Tests/bin/Debug/Tests.dll
