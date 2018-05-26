@@ -1,6 +1,9 @@
 # XBox Save Game Info
 A Simple Tool for reading info about XBox Savegames.
 
+# Note
+This project isn't finished, and i need help with some stuff ex: finding / coding a **command line** tool for reading / viewing the Icons of the xbx files.
+
 # Wiki 
 There is currently no Wiki for this Tool, because it's just a Simple fun project.
 
